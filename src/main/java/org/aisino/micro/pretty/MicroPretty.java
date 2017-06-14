@@ -6,6 +6,7 @@ public class MicroPretty {
 	
 	public void sayHi() {
 		System.out.println("Hello MicroPretty !!");
+		System.out.println("---------------------");
 	}
 
 	public String getDescription() {
